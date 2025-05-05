@@ -1,7 +1,9 @@
 # Coding_Journal
 A coding journal is a personal record that developers use to document their coding process, track their learning, and share their experiences. It can be a physical notebook, a digital document, or even a blog. Stack Overflow Blog suggests writing in a journal at the start of each session to define goals, jotting down notes while coding, and summarizing finished tasks. Medium argues that a programming journal is valuable for personal knowledge, enhancing the learning process, and tracking progress. 
 ## Requirements
-You will be tasked with keeping a coding journal for the required amount of days detailed by your teacher. See below for more details;
+You will be tasked with keeping a coding journal (See below for more details about the purpose and benefits of a coding journal) for the required amount of days detailed by your teacher. You are required to learn about markdown file editing. Then each day:
+* edit the provided markdown file with your journal entry
+* commit your changes to this respository.
 ## Purpose:
 ### Documenting the Coding Process:
 A journal can be used to record the steps taken, the code written, and any challenges faced while working on a project.
